@@ -1,0 +1,7 @@
+name: CowWand
+version: '${project.version}'
+main: rivraff.com.github.cowwand.CowWand
+api-version: 1.19
+softdepend: [ HolyHealth ]
+authors: [ RivRaff ]
+description: The power of the cows. Creates a wand which you can fire explosive cows from. Has permissions for wands[TBD, not yet  complete.]. Also has HolyHealth integrations[TBD. HolyHealth doesn't even exist yet.]
