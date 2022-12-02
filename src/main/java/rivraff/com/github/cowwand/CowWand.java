@@ -13,5 +13,6 @@ public final class CowWand extends JavaPlugin {
     @Override
     public void onDisable() {
         // Plugin shutdown logic
+        //Github test
     }
 }
