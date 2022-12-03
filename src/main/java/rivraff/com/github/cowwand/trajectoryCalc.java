@@ -1,4 +1,4 @@
 package rivraff.com.github.cowwand;
 
-public class tragectoryCalc {
+public class trajectoryCalc {
 }
